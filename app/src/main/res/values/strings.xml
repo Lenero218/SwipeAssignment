@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Swipe Assessment</string>
+
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="add_product">Add Product</string>
+    <string name="product_name">Product Name</string>
+    <string name="type">Type</string>
+    <string name="price">Price</string>
+    <string name="tax">Tax</string>
+
+</resources>
