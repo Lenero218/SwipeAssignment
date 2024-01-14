@@ -2,7 +2,7 @@
 The project follows MVVM architecture. 
 It has 2 screens, See Product and Add Product
 
-Structure: 
+Structure: (SEE STRUCTURE.png)
 
   Remote(Network) -> RemoteDataSource             -> GetProductDetailsUseCase    ->                                -> ProductDetailsFragment
                                        -> Repo -> ->  PostProductUseCase          ->    ViewModel(SharedViewModel)
